@@ -1,0 +1,22 @@
+Initialize engine version: 4.5.4f1 (e036f44c54c9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: ATI Mobility Radeon HD 5800 Series (ID=0x68a0)
+    Vendor:   ATI
+    VRAM:     1017 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Joni\Documents\Game A Week 4\Clicker_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Joni\Documents\Game A Week 4\Clicker_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Joni\Documents\Game A Week 4\Clicker_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Joni\Documents\Game A Week 4\Clicker_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.097 seconds
+desktop: 1600x900 60Hz; virtual: 3520x1200 at 0,-300
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.329742 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 86.
+Total: 0.654289 ms (FindLiveObjects: 0.004796 ms CreateObjectMapping: 0.009592 ms MarkObjects: 0.121505 ms  DeleteObjects: 0.003597 ms)
+
