@@ -1,5 +1,5 @@
 # game-a-week-four
-by [@JonRaem](https://twitter.com/JonRaem/)
+by [@jonraem](https://twitter.com/jonraem/)
 
 <h2> Background </h2>
 <p> Back in the autumn of 2014 I decided to start a Game A Week project to improve my skills in game development. What is a Game A Week, you ask? It's pretty self explanatory: you have to make a game in a week and release it on the last day no matter what. This teaches not only working under a time constraint but also how to start, work on and finish a project within said time constraint. My project consisted of five parts and this is the fourth installment to it. </p>
